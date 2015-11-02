@@ -37,7 +37,7 @@ time dependence of the vector in the rotating frame.
 So we have a vector which changes according to A dot 0,
 but it also rotates, and that means--
 and this is exactly shown in classical mechanics--
-that in the inertia frame, the time derivative
+that in the inertial frame, the time derivative
 is the sum of the two.
 It is the change of the vector in the rotating
 frame plus omega cos of A.
@@ -52,7 +52,7 @@ the two time derivatives are the same.
 But anyway what I derived for you is an operator equation
 that the time derivative in the rotating frame
 is related to the time derivative
-in the inertia flame in this way.
+in the inertial frame in this way.
 
 And now we want to apply it to our angular momentum, L dot.
 
@@ -90,4 +90,5 @@ the angular momentum is constant in the rotating frame.
 In other words, the dynamics of this system
 means that L is constant in a rotating frame,
 and if you want to know what happens
-in the original, in the lab frame, in the inertia frame,
+in the original, in the lab frame, in the inertial frame,
+you just have to rotate back.
