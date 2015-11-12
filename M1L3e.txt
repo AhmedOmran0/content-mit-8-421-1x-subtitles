@@ -23,10 +23,10 @@ is this Hamiltonian, which is a two level system with splitting
 omega 0, and then we make a simplification where
 we use pure exponentials-- so a single frequency in complex
 notation, with a complex exponential,
-e to the i omega t as the derived term.
+e to the i omega t as the drive term.
 So this is one of the simplest Hamiltonians
 for this kind of system.
 It's a two level system with a splitting,
-and now it is driven, and the simple strive term is not
+and now it is driven, and the simplest drive term is not
 cosine omega t or sine omega t, as we will see,
-the simple strive term is e to the i omega t.
+the simplest drive term is e to the i omega t. So this is now our Hamiltonian.
